@@ -1,0 +1,21 @@
+1. node --version
+
+2. 进入node
+node 
+
+3. 
+.help
+
+.exit
+double ctrl C
+ctrl D
+
+
+4. 运行js
+node index.js
+
+5. documentation
+https://nodejs.org/docs/latest-v18.x/api/index.html
+
+6.
+文件系统是允许我们访问本地存储的本地节点模块｡
